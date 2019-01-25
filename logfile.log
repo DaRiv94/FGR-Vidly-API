@@ -22,3 +22,12 @@
 {"level":"info","message":"Connecting to mongodb://localhost/vidly...","timestamp":"2019-01-25T19:51:15.600Z"}
 {"level":"info","message":"Connecting to mongodb://localhost/vidly...","timestamp":"2019-01-25T19:52:00.105Z"}
 {"level":"info","message":"Connecting to mongodb://localhost/vidly...","timestamp":"2019-01-25T19:52:07.461Z"}
+{"level":"info","message":"Connecting to mongodb://localhost/vidly...","timestamp":"2019-01-25T21:48:44.220Z"}
+{"level":"info","message":"Connecting to mongodb://localhost/vidly...","timestamp":"2019-01-25T21:49:20.899Z"}
+{"level":"info","message":"Connecting to mongodb://localhost/vidly_tests...","timestamp":"2019-01-25T21:50:24.812Z"}
+{"level":"info","message":"Connecting to mongodb://localhost/vidly...","timestamp":"2019-01-25T21:54:56.969Z"}
+{"level":"info","message":"Connecting to mongodb://localhost/vidly_tests...","timestamp":"2019-01-25T21:55:20.301Z"}
+{"level":"info","message":"Connecting to mongodb+srv://VidlyUser1:vidly@vidlydb-ykijc.azure.mongodb.net/test?retryWrites=true...","timestamp":"2019-01-25T22:03:52.329Z"}
+{"level":"info","message":"Connecting to mongodb+srv://VidlyUser1:vidly@vidlydb-ykijc.azure.mongodb.net/test?retryWrites=true...","timestamp":"2019-01-25T22:05:57.730Z"}
+{"level":"info","message":"Connecting to mongodb://localhost/vidly...","timestamp":"2019-01-25T22:06:33.952Z"}
+{"level":"info","message":"Connecting to mongodb://localhost/vidly_tests...","timestamp":"2019-01-25T22:06:56.697Z"}
