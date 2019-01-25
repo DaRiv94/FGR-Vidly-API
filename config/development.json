@@ -1,0 +1,4 @@
+{
+    "Config":"this is the devlopment config file that will be used in development on this machine, also using a local mongodb database.",
+    "db":"mongodb://localhost/vidly"
+}
