@@ -48,3 +48,5 @@
 {"level":"info","message":"Connecting to mongodb+srv://VidlyUser1:vidly@vidlydb-ykijc.azure.mongodb.net/test?retryWrites=true...","timestamp":"2019-03-04T03:49:31.810Z"}
 {"level":"info","message":"Connecting to mongodb+srv://VidlyUser1:vidly@vidlydb-ykijc.azure.mongodb.net/test?retryWrites=true...","timestamp":"2019-03-04T03:59:51.829Z"}
 {"level":"info","message":"Connecting to mongodb+srv://VidlyUser1:vidly@vidlydb-ykijc.azure.mongodb.net/test?retryWrites=true...","timestamp":"2019-03-04T04:02:03.447Z"}
+{"level":"info","message":"Connecting to mongodb+srv://VidlyUser1:vidly@vidlydb-ykijc.azure.mongodb.net/test?retryWrites=true...","timestamp":"2019-03-04T04:40:04.138Z"}
+{"level":"info","message":"Connecting to mongodb+srv://VidlyUser1:vidly@vidlydb-ykijc.azure.mongodb.net/test?retryWrites=true...","timestamp":"2019-03-04T04:46:03.728Z"}
