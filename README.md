@@ -3,12 +3,12 @@
 
 FGR Vidly API is an example movie rental service api.
 
-This application is currently hosted [here](https://boiling-meadow-22539.herokuapp.com/)**NOTE: CHANGE URL HERE**
+This application is currently hosted [Here](https://boiling-meadow-22539.herokuapp.com/)
 
 ### Shortcuts
-* [Key Features](https://github.com/DaRiv94/FGR-API-Viewer#Key-Features)**NOTE: CHANGE URL HERE**
-* [Technologies](https://github.com/DaRiv94/FGR-API-Viewer#Technologies)**NOTE: CHANGE URL HERE**
-* [Links](https://github.com/DaRiv94/FGR-API-Viewer#Links)**NOTE: CHANGE URL HERE**
+* [Key Features](https://github.com/DaRiv94/FGR-Vidly-API#Key-Features)
+* [Technologies](https://github.com/DaRiv94/FGR-Vidly-API#Technologies)
+* [Links](https://github.com/DaRiv94/FGR-Vidly-API#Links)
 
 ## Key Features
 
@@ -22,14 +22,14 @@ This application is currently hosted [here](https://boiling-meadow-22539.herokua
 
 ## Technologies
 
-**Node.js -** For source control<br>
-**Express.js -**To control and delegate application state<br>
-**MongoDB Atlas -** For use with styling<br>
+**Node.js -**  As javaScript runtime<br>
+**Express.js -** As web framework on node.js to help with running the server<br>
+**MongoDB Atlas -** For storing data in the cloud<br>
 **Mongoose -** For creating entitys and interacting with MongoDB<br>
 **JavaScript -** As programming language used thoughout<br>
 **Jest -** For testing<br>
 **GIT -** For source control<br>
-**GitHub -** For external remote repository<br>
+**GitHub -** For external repository<br>
 **Heroku -** For cloud hosting<br>
 
 ## Links
