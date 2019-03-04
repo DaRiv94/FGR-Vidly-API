@@ -2,8 +2,8 @@ const express = require('express');
 const cors = require('cors');
 const app = express();
 
-app.use(cors());
-
+app.use(cors());//this is to allow browsers to access this api publicly
+app.use(express.static('.'));//this is to render the static index.html page at the root
 
 
 require('./startup/logging')(); //all our logging logic
