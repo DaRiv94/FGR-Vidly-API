@@ -36,10 +36,10 @@ This application is currently hosted [Here](https://boiling-meadow-22539.herokua
 
 Currently FGR Vidly API is hosted [Here](https://boiling-meadow-22539.herokuapp.com/)
 
-FGR API Viewer is a FGR Application built to demonstrate how Vidlys endpoints work. check out [FGR API Viewer](https://fgr-api-viewer.surge.sh/)
+FGR API Viewer is a FGR Application built to demonstrate how Vidlys endpoints work. check out [FGR API Docs](https://fgr-api-docs.surge.sh/vidly)
 
 If you want to see my other work, here are some links,
 
 My GitHub Homepage : https://github.com/DaRiv94/
 
-My Portfolio Website : http://FrankieRiviera.com
+My Portfolio Website : https://FrankieRiviera.com
