@@ -3,7 +3,7 @@
 
 FGR Vidly API is an example movie rental service api.
 
-This application is currently hosted [Here](https://boiling-meadow-22539.herokuapp.com/)
+<!-- This application is currently hosted [Here](https://boiling-meadow-22539.herokuapp.com/) -->
 
 ### Shortcuts
 * [Key Features](https://github.com/DaRiv94/FGR-Vidly-API#Key-Features)
@@ -34,9 +34,9 @@ This application is currently hosted [Here](https://boiling-meadow-22539.herokua
 
 ## Links
 
-Currently FGR Vidly API is hosted [Here](https://boiling-meadow-22539.herokuapp.com/)
+<!-- Currently FGR Vidly API is hosted [Here](https://boiling-meadow-22539.herokuapp.com/) -->
 
-FGR API Viewer is a FGR Application built to demonstrate how Vidlys endpoints work. check out [FGR API Viewer](https://fgr-api-viewer.surge.sh/)
+<!-- FGR API Viewer is a FGR Application built to demonstrate how Vidlys endpoints work. check out [FGR API Viewer](https://fgr-api-viewer.surge.sh/) -->
 
 If you want to see my other work, here are some links,
 
